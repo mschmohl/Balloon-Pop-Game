@@ -52,6 +52,9 @@ body {
 .lose {
     display: none;
 }
+.win {
+    display: none;
+}
 .score-block {
     background: #efefef;
     width: 300px;
